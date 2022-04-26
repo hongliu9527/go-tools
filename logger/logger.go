@@ -2,14 +2,13 @@
  * @Author: hongliu
  * @Date: 2022-04-26 09:34:48
  * @LastEditors: hongliu
- * @LastEditTime: 2022-04-26 09:52:23
+ * @LastEditTime: 2022-04-26 10:34:25
  * @FilePath: \go-tools\logger\logger.go
  * @Description: 封装日志
  *
  * Copyright (c) 2022 by 洪流, All Rights Reserved.
  */
 
-// 日志系统设计需求:
 // 1. 支持日志信息输出到终端和日志文件(支持同时输出),默认终端输出
 //    1.1 支持日志文件容量限制
 //    1.2 支持日志文件切片(按天进行切分))
