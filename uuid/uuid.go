@@ -1,11 +1,13 @@
-//
-// Copyright (c) 2021 通通停车武汉研发中心
-// All rights reserved
-// filename: uuid.go
-// description: UUID生成工具
-// version: 0.1.0
-// created by hongliu(hongliu@egova.com.cn) at 2021-06-24
-//
+/*
+ * @Author: hongliu
+ * @Date: 2022-04-26 09:34:48
+ * @LastEditors: hongliu
+ * @LastEditTime: 2022-04-26 10:34:25
+ * @FilePath: \go-tools\logger\logger.go
+ * @Description: UUID字符串获取工具
+ *
+ * Copyright (c) 2022 by 洪流, All Rights Reserved.
+ */
 
 package uuid
 
